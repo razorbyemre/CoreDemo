@@ -1,0 +1,12 @@
+D:\VS projects\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+D:\VS projects\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+D:\VS projects\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+D:\VS projects\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+D:\VS projects\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+D:\VS projects\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+D:\VS projects\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+D:\VS projects\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+D:\VS projects\CoreDemo\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
+D:\VS projects\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+D:\VS projects\CoreDemo\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll

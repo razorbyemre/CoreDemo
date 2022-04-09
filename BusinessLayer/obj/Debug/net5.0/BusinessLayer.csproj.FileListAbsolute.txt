@@ -1,0 +1,17 @@
+D:\VS projects\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\VS projects\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\VS projects\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\VS projects\CoreDemo\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\VS projects\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\VS projects\CoreDemo\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\VS projects\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\VS projects\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\VS projects\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\VS projects\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\VS projects\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\VS projects\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\VS projects\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\VS projects\CoreDemo\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+D:\VS projects\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\VS projects\CoreDemo\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll

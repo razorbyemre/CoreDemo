@@ -1,4 +1,5 @@
 ﻿using DataAccessLayer.Abstaract;
+using DataAccessLayer.Concrete;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,37 +11,49 @@ namespace DataAccessLayer.Repositories
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
-        protected DbContext _context;
-        private DbSet<T> _dbSet;    
+        //protected Context _context;
+        //private DbSet<T> _dbSet;
 
-        public GenericRepository(DbContext dbContext)
-        {
-            _context = dbContext;
-        }
-        public GenericRepository() { }
+        //public GenericRepository(Context dbContext)
+        //{
+        //    _context = dbContext;
+        //    _dbSet = _context.Set<T>();
+        //}
+        //public GenericRepository() { }
         public void Add(T entity)
         {
-            _dbSet.Add(entity);
+            using var c = new Context();
+            c.Add(entity);
+            c.SaveChanges();
         }
 
         public void Delete(T entity)
         {
-            _dbSet.Remove(entity);
+            using var c = new Context();
+            c.Remove(entity);
+            c.SaveChanges();
         }
 
-        public List<T> GetAll()
+
+        List<T> IGenericRepository<T>.GetAll()
         {
-            return _dbSet.ToList();
+            using var c = new Context();
+            return c.Set<T>().ToList();
+
         }
 
         public T GetById(int id)
         {
-            return _dbSet.Find(id);
+            using var c = new Context();
+            return c.Set<T>().Find(id);
+        
         }
 
         public void Update(T entity)
         {
-            _context.Entry(entity).State = EntityState.Modified;
+            using var c = new Context();
+            c.Update(entity);
+            c.SaveChanges();
         }
     }
 }

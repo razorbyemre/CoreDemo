@@ -134,6 +134,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.15, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.0, )"
             }
           },
           "imports": [

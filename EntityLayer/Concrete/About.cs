@@ -11,11 +11,11 @@ namespace EntityLayer.Concrete
     {
         [Key]
         public int AboutID { get; set; }
-        public int AboutDetails1 { get; set; }
-        public int AboutDetails2 { get; set; }
-        public int Aboutimage1 { get; set; }
-        public int Aboutimage2 { get; set; }
-        public int AboutiMapLocation { get; set; }
+        public string AboutDetails1 { get; set; }
+        public string AboutDetails2 { get; set; }
+        public string Aboutimage1 { get; set; }
+        public string Aboutimage2 { get; set; }
+        public string AboutiMapLocation { get; set; }
         public bool AboutStatus { get; set; }
     }
 }

@@ -153,3 +153,11 @@ D:\VS projects\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.
 D:\VS projects\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
 D:\VS projects\CoreDemo\CoreDemo\bin\Debug\net5.0\Elasticsearch.Net.dll
 D:\VS projects\CoreDemo\CoreDemo\bin\Debug\net5.0\Nest.dll
+D:\VS projects\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
+D:\VS projects\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\VS projects\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+D:\VS projects\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+D:\VS projects\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+D:\VS projects\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
+D:\VS projects\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
+D:\VS projects\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Comment\CommentListByBlog.cshtml.g.cs

@@ -26,23 +26,23 @@ namespace DataAccessLayer.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("AboutDetails1")
-                        .HasColumnType("int");
+                    b.Property<string>("AboutDetails1")
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("AboutDetails2")
-                        .HasColumnType("int");
+                    b.Property<string>("AboutDetails2")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("AboutStatus")
                         .HasColumnType("bit");
 
-                    b.Property<int>("AboutiMapLocation")
-                        .HasColumnType("int");
+                    b.Property<string>("AboutiMapLocation")
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Aboutimage1")
-                        .HasColumnType("int");
+                    b.Property<string>("Aboutimage1")
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Aboutimage2")
-                        .HasColumnType("int");
+                    b.Property<string>("Aboutimage2")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("AboutID");
 
@@ -74,7 +74,7 @@ namespace DataAccessLayer.Migrations
                     b.Property<int>("CategoryID")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("CreateDate")
+                    b.Property<DateTime?>("CreateDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("BlogiD");

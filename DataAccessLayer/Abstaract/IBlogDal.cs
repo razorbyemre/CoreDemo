@@ -9,5 +9,6 @@ namespace DataAccessLayer.Abstaract
 {
     public interface IBlogDal: IGenericRepository<Blog>
     {
+        List<Blog> GetListWithCategory();
     }
 }

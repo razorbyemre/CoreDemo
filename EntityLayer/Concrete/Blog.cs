@@ -15,7 +15,7 @@ namespace EntityLayer.Concrete
         public string BlogContent { get; set; }
         public string BlogThumpnailImage { get; set; } //Blogun kucuk image si 
         public string BlogImage { get; set; } //Blogun buyuk image si. Sunucuda yer kaplamamasi icin dosya yolu olarak tutacagiz.
-        public DateTime CreateDate { get; set; }
+        public DateTime? CreateDate { get; set; }
         public bool BlogStatus { get; set; }
 
 

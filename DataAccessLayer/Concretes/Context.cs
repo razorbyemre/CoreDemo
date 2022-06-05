@@ -12,7 +12,7 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) // connection string tanimlamak icin bole bir yapi kurduk 
         {
-            optionsBuilder.UseSqlServer("server=HOME-PC; database=CoreBlogDb; integrated security=true;");//Bu fonksiyon icin entitiyframework.core.sqlserver yuklenmesi gereklidir. 
+            optionsBuilder.UseSqlServer("server=HOME-PC\\MSSQLSERVER01; database=CoreBlogDb; integrated security=true;");//Bu fonksiyon icin entitiyframework.core.sqlserver yuklenmesi gereklidir. 
         }
 
         public DbSet<About> Abouts { get; set; }

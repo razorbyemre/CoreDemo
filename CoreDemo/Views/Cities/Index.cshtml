@@ -1,0 +1,42 @@
+﻿@*
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+}*@
+
+@using CoreDemo.Models;
+
+@model IEnumerable<CityModel>
+
+@using (Html.BeginForm("Index", "RegisterController", FormMethod.Post))
+
+{
+
+    <div class="form-group col-md-6">
+
+        <label for="validationCity mb-2">Şehir Seçiniz</label>
+
+
+
+
+        <br />
+
+        @if (Model != null)
+
+        {
+
+          @*  @Html.DropDownListFor(m= )*@
+
+
+
+        }
+        
+
+
+
+
+
+
+    </div>
+
+}

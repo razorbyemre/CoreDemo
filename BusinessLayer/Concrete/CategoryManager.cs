@@ -15,7 +15,7 @@ namespace BusinessLayer.Concrete
 
         ICategoryDal _categorydal;
 
-    
+
         public CategoryManager(ICategoryDal categorydal)
         {
             _categorydal = categorydal;

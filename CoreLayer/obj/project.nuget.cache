@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fdDQgi7osbntQ3UjQHib3CoQgVlJ0j//cAJDa5n8vg11XT9vkZ+jjkkQp/ZYr5AAhJXW+XpVeL1/TfxMY50tHQ==",
+  "dgSpecHash": "zjF+EV4/3bohQs4CpEJAYRRFazZWpBmz6XY3QyiTyX+5n/0fUVy/gw0RYo+AlgAT49rB8Fh5ZkZUqV3UxIrDrQ==",
   "success": true,
   "projectFilePath": "D:\\VS projects\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

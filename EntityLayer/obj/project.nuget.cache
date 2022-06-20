@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f/tH9JVw0XdCwAmxWZf6f3b97y+zBjIPvK2FEyScf251ND3KX0tJ49ZDeUnK9Yls9cNQcJG55V7DG3moD9W+vA==",
+  "dgSpecHash": "rDB8ujFF8iC6QiwUPKuhmEd49ckZOshGKke2rpDqLJVGVBBbfKas2v0TYPyrAwOUqqmKGHITgZn9xCDDxE473g==",
   "success": true,
   "projectFilePath": "D:\\VS projects\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
